@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style_properties>
+  <style_property property_name="pamukcuposts1_background" group_name="Pamukcu_styling" title="PamukcuPosts1 Background" description="" property_type="css" display_order="10" css_components="background,extra">
+  <value>
+	{
+		"background-color": "",
+		"background-image": "url(styles/pamukcureborn/images/Nizamiye.jpg)",
+		"extra": ""
+	}
+	</value>
+	</style_property>
+	<style_property property_name="pamukcuposts2_background" group_name="Pamukcu_styling" title="PamukcuPosts2 Background" description="" property_type="css" display_order="20" css_components="background,extra">
+  <value>
+	{
+		"background-color": "",
+		"background-image": "url(styles/pamukcureborn/images/Nizamiye.jpg)",
+		"extra": ""
+	}
+	</value>
+	</style_property>
+	<style_property property_name="pamukcuposts_title" group_name="Pamukcu_styling" title="PamukcuPosts Title Background" description="" property_type="css" display_order="30" css_components="text,background,extra">
+  <value>
+	{
+		"color": "white",
+		"background-color": "rgba(0,0,0,.5)",
+		"background-image": "",
+		"font-size": "20px",
+		"extra": "font-weight:500;\n"
+	}
+	</value>
+	</style_property>
+</style_properties>

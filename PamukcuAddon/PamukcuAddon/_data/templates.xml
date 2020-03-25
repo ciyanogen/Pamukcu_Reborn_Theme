@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="admin" title="Pamukcu_Addon_option_menu" version_id="1000010" version_string="1.0.0"><![CDATA[<xf:macro name="option_form_block" arg-group="" arg-options="!" arg-containerBeforeHtml="">
+    <xf:if is="$options is not empty">
+        <xf:form action="{{ link('options/update') }}" ajax="true" class="block">
+            {$containerBeforeHtml|raw}
+            <div class="block-container">
+                <h2 class="block-tabHeader tabs" style="display:list-item;list-style:none;" data-xf-init="tabs" role="tablist">
+                    <a class="tabs-tab is-active" role="tab" tabindex="0" aria-controls="PamukcuAdminTab1">{{ phrase('Pamukcu_admin_control_footer_description') }}</a>
+					<a class="tabs-tab" role="tab" tabindex="0" aria-controls="PamukcuAdminTab2">{{ phrase('Pamukcu_admin_control_footerblock1') }}</a>
+					<a class="tabs-tab" role="tab" tabindex="0" aria-controls="PamukcuAdminTab3">{{ phrase('Pamukcu_admin_control_footerblock2') }}</a>
+					<a class="tabs-tab" role="tab" tabindex="0" aria-controls="PamukcuAdminTab4">{{ phrase('Pamukcu_admin_control_pamukcuposts') }}</a>
+					<a class="tabs-tab" role="tab" tabindex="0" aria-controls="PamukcuAdminTab5">{{ phrase('Pamukcu_admin_control_pamukcusozler') }}</a>
+				</h2>
+                <ul class="tabPanes">
+                    <li class="is-active" role="tabpanel" id="PamukcuAdminTab1">
+                        <div class="block-body">
+                            <xf:foreach loop="$options" value="$option">
+                            <xf:if is="$option.Relations.Pamukcu_Addon.display_order < 40">
+                                <xf:macro template="option_macros" name="option_row" arg-group="{$group}" arg-option="{$option}" />
+                            </xf:if>
+                            </xf:foreach>
+                        </div>
+                    </li>
+                    <li role="tabpanel" id="PamukcuAdminTab2">
+                        <div class="block-body">
+                            <xf:foreach loop="$options" value="$option">
+                            <xf:if is="$option.Relations.Pamukcu_Addon.display_order >= 40 AND $option.Relations.Pamukcu_Addon.display_order < 110">
+                                <xf:macro template="option_macros" name="option_row" arg-group="{$group}" arg-option="{$option}" />
+                            </xf:if>	
+                            </xf:foreach>	
+                        </div>
+                    </li>
+					<li role="tabpanel" id="PamukcuAdminTab3">
+                        <div class="block-body">
+                            <xf:foreach loop="$options" value="$option">
+                            <xf:if is="$option.Relations.Pamukcu_Addon.display_order >= 110 AND $option.Relations.Pamukcu_Addon.display_order < 160">
+                                <xf:macro template="option_macros" name="option_row" arg-group="{$group}" arg-option="{$option}" />
+                            </xf:if>
+                            </xf:foreach>
+                        </div>
+                    </li>
+					<li role="tabpanel" id="PamukcuAdminTab4">
+                        <div class="block-body">
+                            <xf:foreach loop="$options" value="$option">
+                            <xf:if is="$option.Relations.Pamukcu_Addon.display_order >= 160 AND $option.Relations.Pamukcu_Addon.display_order < 210">
+                                <xf:macro template="option_macros" name="option_row" arg-group="{$group}" arg-option="{$option}" />
+                            </xf:if>
+                            </xf:foreach>
+                        </div>
+                    </li>
+					<li role="tabpanel" id="PamukcuAdminTab5">
+                        <div class="block-body">
+                            <xf:foreach loop="$options" value="$option">
+                            <xf:if is="$option.Relations.Pamukcu_Addon.display_order >= 210 AND $option.Relations.Pamukcu_Addon.display_order < 290">
+                                <xf:macro template="option_macros" name="option_row" arg-group="{$group}" arg-option="{$option}" />
+                            </xf:if>
+                            </xf:foreach>
+                        </div>
+                    </li>
+                </ul>
+                <xf:submitrow sticky="true" icon="save" />
+            </div>
+        </xf:form>
+	</xf:if>
+</xf:macro>]]></template>
+</templates>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="Pamukcu_admin_control_pamukcuposts" version_id="100010" version_string="1.0.0"><![CDATA[PamukçuPosts]]></phrase>
+  <phrase title="Pamukcu_admin_control_footer_description" version_id="100010" version_string="1.0.0"><![CDATA[Footer Açıklama Bloğu]]></phrase>
+  <phrase title="Pamukcu_admin_control_footerblock1" version_id="100010" version_string="1.0.0"><![CDATA[Footer Bloğu 1]]></phrase>
+  <phrase title="Pamukcu_admin_control_footerblock2" version_id="100010" version_string="1.0.0"><![CDATA[Footer Bloğu 2]]></phrase>
+  <phrase title="Pamukcu_admin_control_pamukcusozler" version_id="100010" version_string="1.0.0"><![CDATA[Pamukçu Sözler]]></phrase>
+  <phrase title="option.PamukcuFooter_onoff" version_id="1000010" version_string="1.0.0"><![CDATA[Aç/Kapa Seçeneği]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_onoff" version_id="1000010" version_string="1.0.0"><![CDATA[Aç/Kapa Seçeneği]]></phrase>
+  <phrase title="option.PamukcuFooter_description_title" version_id="1000010" version_string="1.0.0"><![CDATA[Footer Açıklaması Başlığı]]></phrase>
+  <phrase title="option.PamukcuFooter_description" version_id="1000010" version_string="1.0.0"><![CDATA[Footer Açıklaması]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_description_title" version_id="1000010" version_string="1.0.0"><![CDATA[Footer Açıklaması Başlığı]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_description" version_id="1000010" version_string="1.0.0"><![CDATA[Footer Açıklaması]]></phrase>
+  <phrase title="option.PamukcuFooter_block1title" version_id="1000010" version_string="1.0.0"><![CDATA[Blok Başlığı]]></phrase>
+  <phrase title="option.PamukcuFooter_block1link1" version_id="1000010" version_string="1.0.0"><![CDATA[Link 1]]></phrase>
+  <phrase title="option.PamukcuFooter_block1link2" version_id="1000010" version_string="1.0.0"><![CDATA[Link 2]]></phrase>
+  <phrase title="option.PamukcuFooter_block1link3" version_id="1000010" version_string="1.0.0"><![CDATA[Link 3]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block1title" version_id="1000010" version_string="1.0.0"><![CDATA[Blok Başlığı]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block1link1" version_id="1000010" version_string="1.0.0"><![CDATA[Link 1]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block1link2" version_id="1000010" version_string="1.0.0"><![CDATA[Link 2]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block1link3" version_id="1000010" version_string="1.0.0"><![CDATA[Link 3]]></phrase>
+  <phrase title="option.PamukcuFooter_block1link1title" version_id="1000010" version_string="1.0.0"><![CDATA[Link 1 Başlığı]]></phrase>
+  <phrase title="option.PamukcuFooter_block1link2title" version_id="1000010" version_string="1.0.0"><![CDATA[Link 2 Başlığı]]></phrase>
+  <phrase title="option.PamukcuFooter_block1link3title" version_id="1000010" version_string="1.0.0"><![CDATA[Link 3 Başlığı]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block1link1title" version_id="1000010" version_string="1.0.0"><![CDATA[Link 1 Başlığı]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block1link2title" version_id="1000010" version_string="1.0.0"><![CDATA[Link 2 Başlığı]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block1link3title" version_id="1000010" version_string="1.0.0"><![CDATA[Link 3 Başlığı]]></phrase>
+  <phrase title="option.PamukcuFooter_block2title" version_id="1000010" version_string="1.0.0"><![CDATA[Blok Başlığı]]></phrase>
+  <phrase title="option.PamukcuFooter_block2link1" version_id="1000010" version_string="1.0.0"><![CDATA[Link 1]]></phrase>
+  <phrase title="option.PamukcuFooter_block2link2" version_id="1000010" version_string="1.0.0"><![CDATA[Link 2]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block2title" version_id="1000010" version_string="1.0.0"><![CDATA[Blok Başlığı]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block2link1" version_id="1000010" version_string="1.0.0"><![CDATA[Link 1]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block2link2" version_id="1000010" version_string="1.0.0"><![CDATA[Link 2]]></phrase>
+  <phrase title="option.PamukcuFooter_block2link1title" version_id="1000010" version_string="1.0.0"><![CDATA[Link 1 Başlığı]]></phrase>
+  <phrase title="option.PamukcuFooter_block2link2title" version_id="1000010" version_string="1.0.0"><![CDATA[Link 2 Başlığı]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block2link1title" version_id="1000010" version_string="1.0.0"><![CDATA[Link 1 Başlığı]]></phrase>
+  <phrase title="option_explain.PamukcuFooter_block2link2title" version_id="1000010" version_string="1.0.0"><![CDATA[Link 2 Başlığı]]></phrase>
+  <phrase title="option.PamukcuPosts_onoff" version_id="1000010" version_string="1.0.0"><![CDATA[Aç/Kapa Seçeneği]]></phrase>
+  <phrase title="option_explain.PamukcuPosts_onoff" version_id="1000010" version_string="1.0.0"><![CDATA[Aç/Kapa Seçeneği]]></phrase>
+  <phrase title="option.PamukcuPosts1_thread_link" version_id="1000010" version_string="1.0.0"><![CDATA[1. Konu Linki]]></phrase>
+  <phrase title="option.PamukcuPosts1_thread_title" version_id="1000010" version_string="1.0.0"><![CDATA[1. Konu Başlığı]]></phrase>
+  <phrase title="option.PamukcuPosts2_thread_link" version_id="1000010" version_string="1.0.0"><![CDATA[2. Konu Linki]]></phrase>
+  <phrase title="option.PamukcuPosts2_thread_title" version_id="1000010" version_string="1.0.0"><![CDATA[2. Konu Başlığı]]></phrase>
+  <phrase title="option_explain.PamukcuPosts1_thread_link" version_id="1000010" version_string="1.0.0"><![CDATA[1. Konu Linki]]></phrase>
+  <phrase title="option_explain.PamukcuPosts1_thread_title" version_id="1000010" version_string="1.0.0"><![CDATA[1. Konu Başlığı]]></phrase>
+  <phrase title="option_explain.PamukcuPosts2_thread_link" version_id="1000010" version_string="1.0.0"><![CDATA[2. Konu Linki]]></phrase>
+  <phrase title="option_explain.PamukcuPosts2_thread_title" version_id="1000010" version_string="1.0.0"><![CDATA[2. Konu Başlığı]]></phrase>
+  <phrase title="option.PamukcuSozler_onoff" version_id="1000010" version_string="1.0.0"><![CDATA[Aç/Kapa Seçeneği]]></phrase>
+  <phrase title="option_explain.PamukcuSozler_onoff" version_id="1000010" version_string="1.0.0"><![CDATA[Aç/Kapa Seçeneği]]></phrase>
+  <phrase title="option.PamukcuSozler_1" version_id="1000010" version_string="1.0.0"><![CDATA[1. Söz]]></phrase>
+  <phrase title="option.PamukcuSozler_2" version_id="1000010" version_string="1.0.0"><![CDATA[2. Söz]]></phrase>
+  <phrase title="option.PamukcuSozler_3" version_id="1000010" version_string="1.0.0"><![CDATA[3. Söz]]></phrase>
+  <phrase title="option.PamukcuSozler_4" version_id="1000010" version_string="1.0.0"><![CDATA[4. Söz]]></phrase>
+  <phrase title="option.PamukcuSozler_5" version_id="1000010" version_string="1.0.0"><![CDATA[5. Söz]]></phrase>
+  <phrase title="option.PamukcuSozler_6" version_id="1000010" version_string="1.0.0"><![CDATA[6. Söz]]></phrase>
+  <phrase title="option.PamukcuSozler_7" version_id="1000010" version_string="1.0.0"><![CDATA[7. Söz]]></phrase>
+  <phrase title="option_explain.PamukcuSozler_1" version_id="1000010" version_string="1.0.0"><![CDATA[1. Söz]]></phrase>
+  <phrase title="option_explain.PamukcuSozler_2" version_id="1000010" version_string="1.0.0"><![CDATA[2. Söz]]></phrase>
+  <phrase title="option_explain.PamukcuSozler_3" version_id="1000010" version_string="1.0.0"><![CDATA[3. Söz]]></phrase>
+  <phrase title="option_explain.PamukcuSozler_4" version_id="1000010" version_string="1.0.0"><![CDATA[4. Söz]]></phrase>
+  <phrase title="option_explain.PamukcuSozler_5" version_id="1000010" version_string="1.0.0"><![CDATA[5. Söz]]></phrase>
+  <phrase title="option_explain.PamukcuSozler_6" version_id="1000010" version_string="1.0.0"><![CDATA[6. Söz]]></phrase>
+  <phrase title="option_explain.PamukcuSozler_7" version_id="1000010" version_string="1.0.0"><![CDATA[7. Söz]]></phrase>
+  <phrase title="option_group.Pamukcu_Addon" version_id="1000010" version_string="1.0.0"><![CDATA[Pamukçu Addon]]></phrase>
+  <phrase title="option_group_description.Pamukcu_Addon" version_id="1000010" version_string="1.0.0"><![CDATA[Pamukçu Addon Seçenekleri]]></phrase>
+  <phrase title="style_prop_group.Pamukcu_styling" version_id="1000010" version_string="1.0.0"><![CDATA[Pamukçu Tema Ayarları]]></phrase>
+  <phrase title="style_prop_group_desc.Pamukcu_styling" version_id="1000010" version_string="1.0.0"><![CDATA[Pamukçu Tema Stil Ayarları]]></phrase>
+  <phrase title="admin_navigation.Pamukcu_Addon" version_id="1000010" version_string="1.0.0"><![CDATA[Pamukçu Tema]]></phrase>
+  <phrase title="admin_navigation.Pamukcu_Addon_options" version_id="1000010" version_string="1.0.0"><![CDATA[Ayarlar]]></phrase>
+</phrases>
